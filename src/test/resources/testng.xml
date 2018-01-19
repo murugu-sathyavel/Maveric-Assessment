@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Axis Suite">
+	<test name="Axis Test">
+		<classes>
+			<class name="testcases.TC_001" />
+			<class name="testcases.TC_002" />
+			<class name="testcases.TC_003" />
+			<class name="testcases.TC_004" />
+			<class name="testcases.TC_005" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
